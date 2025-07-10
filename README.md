@@ -1,5 +1,5 @@
 
-<h1>Hey! I'm Helin 👩‍💻<br>Welcome to my GitHub — where I share my learning journey, full-stack projects, and everything I'm building.<br></h1>
+<h1>Hey! I'm Helin 👩‍💻 </h1><br>Welcome to my GitHub — where I share my learning journey, full-stack projects, and everything I'm building.<br>
 
 
 ## 🌐 Socials:
