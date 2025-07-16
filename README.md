@@ -15,5 +15,5 @@ Welcome to my GitHub — where I share my learning journey, projects, and everyt
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helinkesip) 
 
-────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
